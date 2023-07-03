@@ -1,2 +1,2 @@
-# GEci
-# SZiazstok Nevem Norbi Ezt azért csináltam hogy legyen egy geci hudotok, be rakjátok és minden gecis lesz.
+# soft aim
+# appdta - Local- Fivem- Appplications Data - mods és ide be húzzátok
